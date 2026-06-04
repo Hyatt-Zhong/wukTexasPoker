@@ -9,3 +9,5 @@ To play on an Android phone: Download it and install the APK.
 [Android Client](https://github.com/Hyatt-Zhong/wukTexasPoker/releases/download/1.0.0/wukTexasPoker.apk)
 
 Android Client need Sync Code to login. after wukTexasPoker.exe(PC Client) login or bind With Google Account, The Sync Code will generate, it in the Personal Panel On PC Client.
+
+HAVE FUN!!
